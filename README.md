@@ -1,10 +1,10 @@
-# 📅 Timyo - Application de Réservation de Rendez-vous
+#  Timyo - Application de Réservation de Rendez-vous
 
 Application web de réservation de rendez-vous avec authentification Laravel Sanctum (SPA Authentication) et gestion multi-rôles (Admin & User).
 
 ---
 
-## 🚀 Technologies Utilisées
+##  Technologies Utilisées
 
 ### Backend
 - **Laravel 10** - Framework PHP
@@ -22,22 +22,22 @@ Application web de réservation de rendez-vous avec authentification Laravel San
 
 ---
 
-## 📋 Fonctionnalités
+##  Fonctionnalités
 
-### 👤 Utilisateur
+###  Utilisateur
 - ✅ Inscription et connexion sécurisées
 - ✅ Créer un rendez-vous (date et heure)
 - ✅ Consulter ses rendez-vous
 - ✅ Annuler un rendez-vous
 
-### 🔐 Administrateur
+###  Administrateur
 - ✅ Voir tous les rendez-vous
 - ✅ Approuver ou rejeter un rendez-vous
 - ✅ Gérer les utilisateurs
 
 ---
 
-## 🗂️ Structure du Projet
+##  Structure du Projet
 
 ```
 timyo/
@@ -54,7 +54,7 @@ timyo/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Prérequis
 - PHP >= 8.1
@@ -104,7 +104,7 @@ npm run dev
 
 ---
 
-## 🔑 Comptes de Test
+##  Comptes de Test
 
 | Rôle  | Email              | Mot de passe |
 |-------|-------------------|--------------|
@@ -113,7 +113,7 @@ npm run dev
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Authentification
 | Méthode | Endpoint           | Description         |
@@ -138,7 +138,7 @@ npm run dev
 
 ---
 
-## 🧪 Tests
+##  Tests
 
 ### Backend
 ```bash
@@ -154,12 +154,12 @@ npm test
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Ce projet est développé dans le cadre d'un brief Simplon.
 
 ---
 
-## 👨‍💻 Auteur
+##  Auteur
 
 **Ayoub Zoubiri** - Développeur Fullstack
